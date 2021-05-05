@@ -1,0 +1,25 @@
+
+        body{background-color: #f0e5d8;
+
+        }
+
+        hr{
+            background-color: azure;
+            border-style: dotted none none;
+            width: 5%;
+            border-color: grey;
+            border-width: 5px;            
+        }
+        
+
+        img{
+            height: 200px;
+        }
+ 
+        H1{
+            color: #bbdfc8;
+        }
+
+        h3{
+            color: #bbdfc8
+        }
